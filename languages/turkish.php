@@ -34,7 +34,7 @@ $LNG['captcha'] = 'Captcha';
 $LNG['username_or_email'] = 'Kullanıcı Adı yada email';
 $LNG['welcome_title'] = 'Hoşgeldin';
 $LNG['welcome_desc'] = 'Sosyal ağımıza';
-$LNG['welcome_about'] = 'hatıralarını anılarını paylaş, başka insalar ile tanış, yeni arkadaşlıklar kur.';
+$LNG['welcome_about'] = 'Hatıralarını, anılarını paylaş, yeni insanlar ile tanış, yeni arkadaşlıklar kur.';
 $LNG['forgot_password'] = 'Şifrenizi mi unuttunuz?';
 $LNG['remember_me'] = 'Beni hatırla';
 $LNG['all_rights_reserved'] = 'Tüm hakları saklıdır';
@@ -42,8 +42,8 @@ $LNG['all_rights_reserved'] = 'Tüm hakları saklıdır';
 $LNG['welcome_one'] = 'Bağlan';
 $LNG['welcome_two'] = 'Paylaş';
 $LNG['welcome_three'] = 'Keşfet';
-$LNG['welcome_one_desc'] = 'Ailen ve arkadaşlarınla iletişim kur en güzel anlarını paylaş';
-$LNG['welcome_two_desc'] = 'Hayatındaki yenilikleri ve arkadaşların ile yaşadışın anları paylaş';
+$LNG['welcome_one_desc'] = 'Ailen ve arkadaşlarınla iletişim kur ve en güzel anlarını paylaş';
+$LNG['welcome_two_desc'] = 'Hayatındaki yenilikleri ve arkadaşların ile yaşadığın güzel anları paylaş';
 $LNG['welcome_three_desc'] = 'Yeni insanları keşfet, yeni bağlantılar ile yeni dostluklar kur';
 $LNG['latest_users'] = 'En son üyeler';
 
@@ -112,9 +112,9 @@ $LNG['curl_error'] = ' <strong>cURL</strong> eklentisinin sunucuda izin verilmi�
 // ADMIN PANEL
 $LNG['general_link'] = 'Genel';
 $LNG['security_link'] = 'Güvenlik';
-$LNG['manage_users'] = 'Üyeleri yönet';
+$LNG['manage_users'] = 'Üyeleri Yönet';
 $LNG['registration'] = 'Kayıt';
-$LNG['limits'] = 'Sınırlar';
+$LNG['limits'] = 'Kısıtlamalar';
 $LNG['emails'] = 'Emailler';
 
 $LNG['theme_install'] = 'Yeni bir tema yüklemek için temayı <strong>themes</strong> klasörü içine yükleyiniz';
@@ -145,12 +145,12 @@ $LNG['visited'] = 'Ziyaret ettim:  <strong>%s</strong>';
 $LNG['played'] = 'Oynadım: <strong>%s</strong>';
 $LNG['watched'] = 'İzledim: <strong>%s</strong>';
 $LNG['listened'] = 'Dinledim: <strong>%s</strong>';
-$LNG['shared_title'] = 'shared <a href="%s" rel="loadpage"><strong>%s</strong></a>\'s <a href="%s" rel="loadpage"><strong>message</strong></a>.';
+$LNG['shared_title'] = ' <a href="%s" rel="loadpage"><strong>%s</strong></a> mesajı <a href="%s" rel="loadpage"><strong>paylaşıldı</strong></a>.';
 $LNG['group_title'] = 'grubunda <a href="%s" rel="loadpage"><strong>%s</strong></a>gönderildi.';
 $LNG['form_title'] = 'Durumunu güncelle';
-$LNG['comment_wrong'] = 'Birşeyler yanlış gitti, lütfen sayfayı yenileyerek tekrar deneyin.';
+$LNG['comment_wrong'] = 'Bir şeyler yanlış gitti, lütfen sayfayı yenileyerek tekrar deneyin.';
 $LNG['comment_too_long'] = 'Üzgünüz, her yorum için izin verilen karakter sayısı <strong>%s</strong>.';
-$LNG['comment_error'] = 'Sorry, we couldn\'t post the comment, please refresh the page and try again.';
+$LNG['comment_error'] = 'Üzgünüz,yorumunuzu gönderemedik, lütfen sayfayı yenileyerek tekrar deneyiniz.';
 $LNG['message_private'] = 'Üzgünüz , bu mesaj özeldir, sadece yazar bu mesajı görebilir.';
 $LNG['message_private_ttl'] = 'Özel Mesaj';
 $LNG['message_semi_private'] = 'Üzgünüz, bu mesaj özeldir, sadece yazar ve arkadaşlar bu mesajı görebilir.';
